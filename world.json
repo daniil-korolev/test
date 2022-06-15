@@ -1,0 +1,56 @@
+{
+  "name": "cos",
+  "title": "Curse of Strahd",
+  "description": "<p>Unravel the mysteries of Ravenloft in this dread adventure for the world’s greatest roleplaying game</p><p> </p><p>Under raging storm clouds, the vampire Count Strahd von Zarovich stands silhouetted against the ancient walls of Castle Ravenloft. Rumbling thunder pounds the castle spires. The wind’s howling increases as he turns his gaze down toward the village of Barovia. A lightning flash rips through the darkness, but Strahd is gone. Only the howling of the wind fills the midnight air. The master of Castle Ravenloft is having guests for dinner—and you are invited.</p><p> </p><p>• A fantasy-horror adventure for characters levels 1-10, Curse of Strahd provides everything a Dungeon Master needs to create an exciting and memorable play experience.</p><p>• Fans of the Dungeons &amp; Dragons Roleplaying Game can have additional adventures in Ravenloft by participating in the D&amp;D Adventurers League organized play program.</p><p>• Included: a 54-card deck by Gale Force Nine representing the Tarokka cards, used by the fortune-teller Madam Eva in the adventure to randomly determine key aspects of the adventure. Also available from GF9 is a Curse of Strahd Dungeon Master's Screen.</p><p>• Written in consultation with Tracy Hickman and Laura Hickman, creators of the original Ravenloft adventure.</p><p> </p><p>Product Information</p><p>System: D&amp;D 5E (Ravenloft)</p><p>Starting Level: Low (1-10)</p><p>Length: Long Campaign</p><p>Installation: World</p><p> </p><p>Curse of Strahd is produced by Wizards of the Coast. It was written by Chris Perkins, edited by Kim Mohan and Jeremy Crawford, and art directed by Kate Irwin. The adventure incorporates material from the original Ravenloft adventure as well as new story content created by Tracy and Laura Hickman, Chris Perkins, Adam Lee, Richard Whitters, and Jeremy Crawford.</p><p> </p><p><strong>DISCLAIMER:</strong> The use of this is meant for your personal use, and only if you legally possess such in accordance with your local laws.</p>",
+  "authors": [
+    {
+      "name": "Wizards of the Coast",
+      "url": "https://dnd.wizards.com/"
+    },
+    {
+      "name": "Worlds of the Community Team",
+      "url": "https://discord.gg/GTyjKHuKhx"
+    }
+  ],
+  "readme": "README.md",
+  "background": "worlds/cos/scenes/backgrounds/start.webp",
+  "bugs": "https://discord.gg/GTyjKHuKhx",
+  "flags": {},
+  "version": "1.0.0",
+  "coreVersion": "9.255",
+  "minimumCoreVersion": "9.249",
+  "compatibleCoreVersion": "9.255",
+  "systemVersion": "1.6.1",
+  "minimumSystemVersion": "1.6.1",
+  "compatibleSystemVersion": "1.6.1",
+  "system": "dnd5e",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [],
+  "dependencies": [
+    {
+      "name": "plutonium",
+      "title": "Plutonium",
+      "type": "module",
+      "manifest": "https://raw.githubusercontent.com/TheGiddyLimit/plutonium-next/master/module.json",
+      "version": "1.51.0"
+    },
+    {
+      "name": "dnd5e",
+      "title": "DnD5e - Fifth Edition System",
+      "type": "system",
+      "manifest": "https://gitlab.com/api/v4/projects/foundrynet%2Fdnd5e/packages/generic/dnd5e/latest/system.json",
+      "version": "1.6.1"
+    }
+  ],
+  "socket": false,
+  "protected": false,
+  "resetKeys": false,
+  "safeMode": false,
+  "manifest": "https://ipfs.io/ipns/k51qzi5uqu5dl9338fpk7jrfx20ayprickx11r7fpyyna5v2982yk404c6q0mo/cos/cos-1.0.0/world.json",
+  "download": "https://ipfs.io/ipns/k51qzi5uqu5dl9338fpk7jrfx20ayprickx11r7fpyyna5v2982yk404c6q0mo/cos/cos-1.0.0/cos-1.0.0.zip"
+}
+
+

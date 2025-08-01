@@ -1,0 +1,82 @@
+{
+  "id": "ag-wild-sheep-chase",
+  "title": "🐑 Охота на овец",
+  "description": "Попытка группы устроить себе редкий день отдыха нарушается встревоженной овцой, держащей в зубах свиток разговора с животными. Однако это не просто зверь, а волшебник, ставший жертвой озлобленного ученика, владеющего жезлом истинного полиморфа. Превращённые убийцы ищут волшебника, чтобы приготовить себе обед из баранины. А единственный предмет, способный вернуть его в прежнюю форму, находится в руках бывшего ученика, ставшего заклятым врагом. К счастью, шерстяной волшебник нашел новых союзников, на которых он может положиться.",
+  "version": "13.0.0",
+  "url": "https://boosty.to/omar0275/posts/3fed7abe-f892-4e12-8f33-e8ba12830753?share=post_link",
+  "manifest": "https://www.dropbox.com/scl/fi/a13qc6rn06p207mgxzthi/module.json?rlkey=na5ewktw1p6jiln9m5c1f5sw2&dl=1",
+  "download": "https://www.dropbox.com/scl/fi/5n01b37fpo5cpqpc7ljja/wild-sheep-chase-main.zip?rlkey=r8flo0cxnxc5a2oothgwxgy92&dl=1",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "esmodules": [
+    "scripts/ag-module.mjs"
+  ],
+  "styles": [
+    "styles/ag-module.css"
+  ],
+  "flags": {
+    "tokenRingSubjectMappings": {
+      "modules/ag-wild-sheep-chase/assets/actors/tokens/": "modules/ag-wild-sheep-chase/assets/actors/subjects/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Adventure Guys",
+      "url": "https://boosty.to/omar0275",
+      "discord": "https://discord.gg/xefpN9789E",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ],
+    "recommends": [
+      {
+        "id": "ru-ru",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "media": [
+    {
+      "type": "setup",
+      "url": "modules/ag-wild-sheep-chase/assets/art/adventure-cover-blank.webp",
+      "thumbnail": "modules/ag-wild-sheep-chase/assets/art/adventure-cover-blank.webp",
+      "loop": false,
+      "flags": {}
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "🐑 Охота на овец",
+      "sorting": "m",
+      "color": "#616161",
+      "packs": [
+        "ag-wild-sheep-chase-adventure"
+      ],
+      "folders": []
+    }
+  ],
+  "packs": [
+    {
+      "name": "ag-wild-sheep-chase-adventure",
+      "label": "🐑 Охота на овец",
+      "banner": "modules/ag-wild-sheep-chase/assets/art/adventure-cover-blank.webp",
+      "path": "packs/ag-wild-sheep-chase-adventure",
+      "type": "Adventure",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}
